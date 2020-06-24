@@ -130,6 +130,25 @@
 			"date": "2019-03-11 00:00:00"
 		}
 	],
+	"distributions": [
+	        {
+			"formats": [
+				"PDF"
+            		],
+			"size" : 1.4,
+		        "unit" : {
+            			"value": "MB"
+		        },
+			"access": {
+				"landingPage": "https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/QAIMTK",
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
+			}
+		}
+	],
 	"keywords": [
         {
             "value": "microarray",
@@ -147,5 +166,31 @@
             "value": "medicine, health and life science",
 			"valueIRI": ""
         }
-	]
+	],
+	"extraProperties": [
+        {
+            "category": "Total number of sessions",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        },
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "2"
+				}
+			]
+		},
+		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "CONP"
+				}
+			]
+		}
+    ]
 }
