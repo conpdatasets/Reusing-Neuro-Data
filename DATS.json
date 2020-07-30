@@ -191,6 +191,17 @@
 					"value": "CONP"
 				}
 			]
+		},
+		{
+			"category": "origin",
+			"values": [
+				{
+					"institution": "University of British Columbia",
+					"city": "Vancouver",
+					"province": "British Columbia",
+					"country": "Canada"
+				}
+			]
 		}
     ]
 }
