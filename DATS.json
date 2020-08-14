@@ -191,6 +191,38 @@
 					"value": "CONP"
 				}
 			]
+		},
+		{
+			"category": "origin_institution",
+			"values": [
+				{
+					"value": "University of British Columbia (UBC)"
+				}
+			]
+		},
+		{
+			"category": "origin_city",
+			"values": [
+				{
+					"value": "Vancouver"
+				}
+			]
+		},
+		{
+			"category": "origin_province",
+			"values": [
+				{
+					"value": "British Columbia"
+				}
+			]
+		},
+		{
+			"category": "origin_country",
+			"values": [
+				{
+					"value": "Canada"
+				}
+			]
 		}
-    ]
+	]
 }
